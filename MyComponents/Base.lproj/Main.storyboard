@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="12121" systemVersion="16G29" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" colorMatched="YES" initialViewController="G6n-2Y-ZDq">
+    <device id="retina4_7" orientation="portrait">
+        <adaptation id="fullscreen"/>
+    </device>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="12089"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <scenes>
+        <!--Read More-->
+        <scene sceneID="tne-QT-ifu">
+            <objects>
+                <viewController id="BYZ-38-t0r" customClass="ViewController" customModule="UsefulComponents" customModuleProvider="target" sceneMemberID="viewController">
+                    <layoutGuides>
+                        <viewControllerLayoutGuide type="top" id="y3c-jy-aDJ"/>
+                        <viewControllerLayoutGuide type="bottom" id="wfy-db-euE"/>
+                    </layoutGuides>
+                    <view key="view" contentMode="scaleToFill" id="8bC-Xf-vdC">
+                        <rect key="frame" x="0.0" y="64" width="375" height="603"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <scrollView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="nkL-HW-r5p" userLabel="scrollView">
+                                <rect key="frame" x="0.0" y="0.0" width="375" height="603"/>
+                                <subviews>
+                                    <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="rbV-bD-oWr" userLabel="viewReadMore1" customClass="ViewReadMore" customModule="UsefulComponents" customModuleProvider="target">
+                                        <rect key="frame" x="0.0" y="0.0" width="375" height="163"/>
+                                        <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                                    </view>
+                                    <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="C9R-wK-btv" userLabel="viewReadMore2" customClass="ViewReadMore" customModule="UsefulComponents" customModuleProvider="target">
+                                        <rect key="frame" x="0.0" y="163" width="375" height="163"/>
+                                        <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                                    </view>
+                                    <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="qxv-j4-cDE" userLabel="viewReadMore3" customClass="ViewReadMore" customModule="UsefulComponents" customModuleProvider="target">
+                                        <rect key="frame" x="0.0" y="326" width="375" height="163"/>
+                                        <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                                    </view>
+                                </subviews>
+                                <constraints>
+                                    <constraint firstItem="qxv-j4-cDE" firstAttribute="top" secondItem="C9R-wK-btv" secondAttribute="bottom" id="2pl-tG-aXF"/>
+                                    <constraint firstAttribute="bottom" secondItem="qxv-j4-cDE" secondAttribute="bottom" id="32b-NW-RiM"/>
+                                    <constraint firstAttribute="trailing" secondItem="qxv-j4-cDE" secondAttribute="trailing" id="BEP-hD-Xhz"/>
+                                    <constraint firstItem="qxv-j4-cDE" firstAttribute="leading" secondItem="nkL-HW-r5p" secondAttribute="leading" id="GxA-AH-0ek"/>
+                                    <constraint firstItem="qxv-j4-cDE" firstAttribute="top" secondItem="C9R-wK-btv" secondAttribute="bottom" id="IVc-NA-mg7"/>
+                                    <constraint firstAttribute="trailing" secondItem="C9R-wK-btv" secondAttribute="trailing" id="Jh2-D1-kW3"/>
+                                    <constraint firstItem="C9R-wK-btv" firstAttribute="top" secondItem="rbV-bD-oWr" secondAttribute="bottom" id="MPq-Lo-rT1"/>
+                                    <constraint firstItem="rbV-bD-oWr" firstAttribute="top" secondItem="nkL-HW-r5p" secondAttribute="top" id="PE7-rk-cU0"/>
+                                    <constraint firstItem="rbV-bD-oWr" firstAttribute="centerX" secondItem="nkL-HW-r5p" secondAttribute="centerX" id="V0S-4Z-TBW"/>
+                                    <constraint firstItem="rbV-bD-oWr" firstAttribute="leading" secondItem="nkL-HW-r5p" secondAttribute="leading" id="bKQ-Dn-Esg"/>
+                                    <constraint firstItem="C9R-wK-btv" firstAttribute="leading" secondItem="nkL-HW-r5p" secondAttribute="leading" id="eBs-k5-VXV"/>
+                                    <constraint firstAttribute="trailing" secondItem="rbV-bD-oWr" secondAttribute="trailing" id="mrD-yn-HID"/>
+                                    <constraint firstItem="C9R-wK-btv" firstAttribute="top" secondItem="rbV-bD-oWr" secondAttribute="bottom" id="vU9-SR-1PJ"/>
+                                </constraints>
+                            </scrollView>
+                        </subviews>
+                        <color key="backgroundColor" white="0.0" alpha="1" colorSpace="calibratedWhite"/>
+                        <constraints>
+                            <constraint firstItem="nkL-HW-r5p" firstAttribute="top" secondItem="y3c-jy-aDJ" secondAttribute="bottom" id="Iti-sY-kR9"/>
+                            <constraint firstAttribute="trailing" secondItem="nkL-HW-r5p" secondAttribute="trailing" id="bPo-o4-lyE"/>
+                            <constraint firstItem="wfy-db-euE" firstAttribute="top" secondItem="nkL-HW-r5p" secondAttribute="bottom" id="dDN-OA-WpW"/>
+                            <constraint firstItem="nkL-HW-r5p" firstAttribute="leading" secondItem="8bC-Xf-vdC" secondAttribute="leading" id="oCx-tg-R0G"/>
+                        </constraints>
+                    </view>
+                    <extendedEdge key="edgesForExtendedLayout" bottom="YES"/>
+                    <navigationItem key="navigationItem" title="Read More" id="kR3-I6-5zr">
+                        <barButtonItem key="rightBarButtonItem" image="icon-refresh" id="ePI-gC-zWF">
+                            <inset key="imageInsets" minX="8" minY="8" maxX="8" maxY="8"/>
+                            <color key="tintColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                            <connections>
+                                <action selector="btnReload:" destination="BYZ-38-t0r" id="F5P-mp-8Ym"/>
+                            </connections>
+                        </barButtonItem>
+                    </navigationItem>
+                    <simulatedStatusBarMetrics key="simulatedStatusBarMetrics" statusBarStyle="lightContent"/>
+                    <connections>
+                        <outlet property="viewReadMore" destination="rbV-bD-oWr" id="Tie-8A-DgS"/>
+                        <outlet property="viewReadMore2" destination="C9R-wK-btv" id="qRK-Io-iAu"/>
+                        <outlet property="viewReadMore3" destination="qxv-j4-cDE" id="qqx-6c-D67"/>
+                    </connections>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="1079.2" y="138.98050974512745"/>
+        </scene>
+        <!--Navigation Controller-->
+        <scene sceneID="bvD-e9-qSd">
+            <objects>
+                <navigationController automaticallyAdjustsScrollViewInsets="NO" id="G6n-2Y-ZDq" sceneMemberID="viewController">
+                    <toolbarItems/>
+                    <navigationBar key="navigationBar" contentMode="scaleToFill" id="BVY-vZ-VSz">
+                        <rect key="frame" x="0.0" y="0.0" width="375" height="44"/>
+                        <autoresizingMask key="autoresizingMask"/>
+                        <color key="barTintColor" white="0.0" alpha="1" colorSpace="calibratedWhite"/>
+                        <textAttributes key="titleTextAttributes">
+                            <color key="textColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                        </textAttributes>
+                    </navigationBar>
+                    <nil name="viewControllers"/>
+                    <connections>
+                        <segue destination="BYZ-38-t0r" kind="relationship" relationship="rootViewController" id="svA-Tf-bE4"/>
+                    </connections>
+                </navigationController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="umb-IV-r5D" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="140" y="138.98050974512745"/>
+        </scene>
+    </scenes>
+    <resources>
+        <image name="icon-refresh" width="48" height="48"/>
+    </resources>
+</document>

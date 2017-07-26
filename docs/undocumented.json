@@ -1,0 +1,362 @@
+{
+  "warnings": [
+    {
+      "file": "/Users/victorabda/Projetos/2 - Em Andamento/MyComponents/MyComponents/AppDelegate.swift",
+      "line": 12,
+      "symbol": "AppDelegate",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/victorabda/Projetos/2 - Em Andamento/MyComponents/MyComponents/AppDelegate.swift",
+      "line": 14,
+      "symbol": "AppDelegate.window",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/victorabda/Projetos/2 - Em Andamento/MyComponents/MyComponents/AppDelegate.swift",
+      "line": 17,
+      "symbol": "AppDelegate.application(_:didFinishLaunchingWithOptions:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/victorabda/Projetos/2 - Em Andamento/MyComponents/MyComponents/AppDelegate.swift",
+      "line": 22,
+      "symbol": "AppDelegate.applicationWillResignActive(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/victorabda/Projetos/2 - Em Andamento/MyComponents/MyComponents/AppDelegate.swift",
+      "line": 27,
+      "symbol": "AppDelegate.applicationDidEnterBackground(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/victorabda/Projetos/2 - Em Andamento/MyComponents/MyComponents/AppDelegate.swift",
+      "line": 32,
+      "symbol": "AppDelegate.applicationWillEnterForeground(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/victorabda/Projetos/2 - Em Andamento/MyComponents/MyComponents/AppDelegate.swift",
+      "line": 36,
+      "symbol": "AppDelegate.applicationDidBecomeActive(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/victorabda/Projetos/2 - Em Andamento/MyComponents/MyComponents/AppDelegate.swift",
+      "line": 40,
+      "symbol": "AppDelegate.applicationWillTerminate(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/victorabda/Projetos/2 - Em Andamento/MyComponents/MyComponents/CellText.swift",
+      "line": 11,
+      "symbol": "CellText",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/victorabda/Projetos/2 - Em Andamento/MyComponents/MyComponents/CellText.swift",
+      "line": 13,
+      "symbol": "CellText.viewReadMore",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/victorabda/Projetos/2 - Em Andamento/MyComponents/MyComponents/CellText.swift",
+      "line": 17,
+      "symbol": "CellText.awakeFromNib()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/victorabda/Projetos/2 - Em Andamento/MyComponents/MyComponents/CellText.swift",
+      "line": 21,
+      "symbol": "CellText.setSelected(_:animated:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/victorabda/Projetos/2 - Em Andamento/MyComponents/MyComponents/ViewController.swift",
+      "line": null,
+      "symbol": "ViewController",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/victorabda/Projetos/2 - Em Andamento/MyComponents/MyComponents/ViewController.swift",
+      "line": null,
+      "symbol": "ViewController",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/victorabda/Projetos/2 - Em Andamento/MyComponents/MyComponents/ViewController.swift",
+      "line": 13,
+      "symbol": "ViewController",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/victorabda/Projetos/2 - Em Andamento/MyComponents/MyComponents/ViewController.swift",
+      "line": 15,
+      "symbol": "ViewController.tableView",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/victorabda/Projetos/2 - Em Andamento/MyComponents/MyComponents/ViewController.swift",
+      "line": 17,
+      "symbol": "ViewController.ReadMoreData",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/victorabda/Projetos/2 - Em Andamento/MyComponents/MyComponents/ViewController.swift",
+      "line": 18,
+      "symbol": "ViewController.ReadMoreData.title",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/victorabda/Projetos/2 - Em Andamento/MyComponents/MyComponents/ViewController.swift",
+      "line": 19,
+      "symbol": "ViewController.ReadMoreData.text",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/victorabda/Projetos/2 - Em Andamento/MyComponents/MyComponents/ViewController.swift",
+      "line": 22,
+      "symbol": "ViewController.myData",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/victorabda/Projetos/2 - Em Andamento/MyComponents/MyComponents/ViewController.swift",
+      "line": 26,
+      "symbol": "ViewController.viewDidLoad()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/victorabda/Projetos/2 - Em Andamento/MyComponents/MyComponents/ViewController.swift",
+      "line": 36,
+      "symbol": "ViewController.viewDidAppear(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/victorabda/Projetos/2 - Em Andamento/MyComponents/MyComponents/ViewController.swift",
+      "line": 42,
+      "symbol": "ViewController.createMockData()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/victorabda/Projetos/2 - Em Andamento/MyComponents/MyComponents/ViewController.swift",
+      "line": 63,
+      "symbol": "ViewController.tableView(_:heightForRowAt:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/victorabda/Projetos/2 - Em Andamento/MyComponents/MyComponents/ViewController.swift",
+      "line": 68,
+      "symbol": "ViewController.tableView(_:numberOfRowsInSection:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/victorabda/Projetos/2 - Em Andamento/MyComponents/MyComponents/ViewController.swift",
+      "line": 73,
+      "symbol": "ViewController.numberOfSections(in:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/victorabda/Projetos/2 - Em Andamento/MyComponents/MyComponents/ViewController.swift",
+      "line": 77,
+      "symbol": "ViewController.tableView(_:cellForRowAt:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/victorabda/Projetos/2 - Em Andamento/MyComponents/MyComponents/ViewController.swift",
+      "line": 89,
+      "symbol": "ViewController.tableView(_:didSelectRowAt:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/victorabda/Projetos/2 - Em Andamento/MyComponents/MyComponents/ViewController.swift",
+      "line": 99,
+      "symbol": "ViewController.changeHeight(isLess:newSize:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/victorabda/Projetos/2 - Em Andamento/MyComponents/MyComponents/ViewReadMore/ReadMoreTextView.swift",
+      "line": 11,
+      "symbol": "ReadMoreDelegate",
+      "symbol_kind": "source.lang.swift.decl.protocol",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/victorabda/Projetos/2 - Em Andamento/MyComponents/MyComponents/ViewReadMore/ReadMoreTextView.swift",
+      "line": 12,
+      "symbol": "ReadMoreDelegate.changeHeight(isLess:newSize:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/victorabda/Projetos/2 - Em Andamento/MyComponents/MyComponents/ViewReadMore/ReadMoreTextView.swift",
+      "line": 22,
+      "symbol": "ReadMoreTextView.readDelegate",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/victorabda/Projetos/2 - Em Andamento/MyComponents/MyComponents/ViewReadMore/ReadMoreTextView.swift",
+      "line": 26,
+      "symbol": "ReadMoreTextView.init(frame:textContainer:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/victorabda/Projetos/2 - Em Andamento/MyComponents/MyComponents/ViewReadMore/ReadMoreTextView.swift",
+      "line": 33,
+      "symbol": "ReadMoreTextView.init(frame:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/victorabda/Projetos/2 - Em Andamento/MyComponents/MyComponents/ViewReadMore/ReadMoreTextView.swift",
+      "line": 37,
+      "symbol": "ReadMoreTextView.init()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/victorabda/Projetos/2 - Em Andamento/MyComponents/MyComponents/ViewReadMore/ReadMoreTextView.swift",
+      "line": 41,
+      "symbol": "ReadMoreTextView.init(coder:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/victorabda/Projetos/2 - Em Andamento/MyComponents/MyComponents/ViewReadMore/ReadMoreTextView.swift",
+      "line": 48,
+      "symbol": "ReadMoreTextView.setupDefaults()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/victorabda/Projetos/2 - Em Andamento/MyComponents/MyComponents/ViewReadMore/ReadMoreTextView.swift",
+      "line": 172,
+      "symbol": "ReadMoreTextView.text",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/victorabda/Projetos/2 - Em Andamento/MyComponents/MyComponents/ViewReadMore/ReadMoreTextView.swift",
+      "line": 182,
+      "symbol": "ReadMoreTextView.attributedText",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/victorabda/Projetos/2 - Em Andamento/MyComponents/MyComponents/ViewReadMore/ReadMoreTextView.swift",
+      "line": 195,
+      "symbol": "ReadMoreTextView.layoutSubviews()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/victorabda/Projetos/2 - Em Andamento/MyComponents/MyComponents/ViewReadMore/ReadMoreTextView.swift",
+      "line": 206,
+      "symbol": "ReadMoreTextView.intrinsicContentSize",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/victorabda/Projetos/2 - Em Andamento/MyComponents/MyComponents/ViewReadMore/ReadMoreTextView.swift",
+      "line": 221,
+      "symbol": "ReadMoreTextView.hitTest(_:with:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/victorabda/Projetos/2 - Em Andamento/MyComponents/MyComponents/ViewReadMore/ReadMoreTextView.swift",
+      "line": 228,
+      "symbol": "ReadMoreTextView.touchesEnded(_:with:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/victorabda/Projetos/2 - Em Andamento/MyComponents/MyComponents/ViewReadMore/ReadMoreTextView.swift",
+      "line": 376,
+      "symbol": "String.length",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/victorabda/Projetos/2 - Em Andamento/MyComponents/MyComponents/ViewReadMore/ViewReadMore.swift",
+      "line": 17,
+      "symbol": "ViewReadMore.lblTitle",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/victorabda/Projetos/2 - Em Andamento/MyComponents/MyComponents/ViewReadMore/ViewReadMore.swift",
+      "line": 18,
+      "symbol": "ViewReadMore.textView",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/victorabda/Projetos/2 - Em Andamento/MyComponents/MyComponents/ViewReadMore/ViewReadMore.swift",
+      "line": 21,
+      "symbol": "ViewReadMore.view",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/victorabda/Projetos/2 - Em Andamento/MyComponents/MyComponents/ViewReadMore/ViewReadMore.swift",
+      "line": 22,
+      "symbol": "ViewReadMore.linkColor",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/victorabda/Projetos/2 - Em Andamento/MyComponents/MyComponents/ViewReadMore/ViewReadMore.swift",
+      "line": 26,
+      "symbol": "ViewReadMore.init(frame:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/victorabda/Projetos/2 - Em Andamento/MyComponents/MyComponents/ViewReadMore/ViewReadMore.swift",
+      "line": 31,
+      "symbol": "ViewReadMore.init(coder:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/victorabda/Projetos/2 - Em Andamento/MyComponents/MyComponents/ViewReadMore/ViewReadMore.swift",
+      "line": 36,
+      "symbol": "ViewReadMore.loadViewFromNib()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    }
+  ],
+  "source_directory": "/Users/victorabda/Projetos/2 - Em Andamento/MyComponents"
+}
